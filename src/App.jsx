@@ -3,7 +3,7 @@ import "./App.css";
 export default function App() {
   return (
     <>
-      <h1>Pokémon Finder</h1>
+      <h1>Pokémon Info</h1>
     </>
   );
 }
